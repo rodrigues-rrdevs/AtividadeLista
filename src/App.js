@@ -35,7 +35,7 @@ function App() {
   }
 
   function cancelarAtividade(){
-    setAtividades({id: 0})
+    setAtividade({id: 0})
   }
  
   return (
